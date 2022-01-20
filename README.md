@@ -4,3 +4,4 @@ P4 Final Capstone Project Studi Independent Dicoding Batch 1
 - [Dadang dan Steven - E- Warung](https://github.com/sempatpanick/e-warung)
 - [Rifky dan Delvin - FoodPad](https://github.com/rifky290301/foodpad)
 - [Muslimin dan Eka - INLINE 🌱](https://github.com/fikriyaeka/Capstone-Dicoding)
+- [Riza and Rif'an - PETTO](https://github.com/MuhammadRifan/Proyek-Capstone-CSD-095)
